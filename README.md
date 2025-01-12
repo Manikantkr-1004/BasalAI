@@ -3,6 +3,8 @@
 ## Project Overview
 Basal AI is a full-stack task management system designed to create, manage, and track tasks with features like authentication, task prioritization, and status updates.
 
+![home](https://github.com/user-attachments/assets/bc204ecd-12e9-46de-bac8-8a88df3ca3f2)
+
 ### Frontend
 - **Framework**: Vite + React.js
 - **State Management**: Redux
@@ -69,5 +71,3 @@ API Base URL: [Basal AI Backend](https://basalai.onrender.com)
 
 ## Disclaimer
 **Use Chrome Browser Only:** Since the frontend and backend are deployed on different domains, authentication using cookies may not work on Safari or other browsers due to CORS and browser restrictions.
-
-
